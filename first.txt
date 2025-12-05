@@ -1,3 +1,4 @@
+This Undo
 echo "# git-mergeconflict" >> README.md
 git init
 git add README.md
